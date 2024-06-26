@@ -2636,7 +2636,7 @@
         "comment": "",
         "dataType": "varchar(20)",
         "default": "",
-        "options": 12,
+        "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
@@ -2645,7 +2645,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1718792995376,
+          "updateAt": 1719414985613,
           "createAt": 1717599844174
         }
       },
@@ -6136,7 +6136,7 @@
         "comment": "",
         "dataType": "integer",
         "default": "",
-        "options": 10,
+        "options": 11,
         "ui": {
           "keys": 1,
           "widthName": 86,
@@ -6145,7 +6145,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719362488199,
+          "updateAt": 1719416951195,
           "createAt": 1719362238944
         }
       },
@@ -6156,7 +6156,7 @@
         "comment": "",
         "dataType": "varchar(50)",
         "default": "",
-        "options": 0,
+        "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
@@ -6165,7 +6165,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719362400714,
+          "updateAt": 1719416956509,
           "createAt": 1719362258039
         }
       },
@@ -6276,7 +6276,7 @@
         "comment": "",
         "dataType": "varchar(50)",
         "default": "",
-        "options": 12,
+        "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 82,
@@ -6285,7 +6285,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719396260244,
+          "updateAt": 1719415761380,
           "createAt": 1719363852576
         }
       },
@@ -6356,7 +6356,7 @@
         "comment": "",
         "dataType": "float",
         "default": "",
-        "options": 12,
+        "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
@@ -6365,7 +6365,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719396274580,
+          "updateAt": 1719415907683,
           "createAt": 1719368875428
         }
       },
@@ -6376,7 +6376,7 @@
         "comment": "",
         "dataType": "float",
         "default": "",
-        "options": 12,
+        "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
@@ -6385,7 +6385,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1719396277049,
+          "updateAt": 1719415908351,
           "createAt": 1719368878571
         }
       },
@@ -8902,7 +8902,7 @@
         "name": 1717599849731,
         "dataType": 1717599938845,
         "options(notNull)": 1717599905255,
-        "options(unique)": 1718792995376
+        "options(unique)": 1719414985611
       }
     ],
     "rM7ogRmhhp86dFMjjRTNe": [
@@ -11274,7 +11274,8 @@
       {
         "name": 1719362488195,
         "dataType": 1719362393245,
-        "options(primaryKey)": 1719362431229
+        "options(primaryKey)": 1719362431229,
+        "options(autoIncrement)": 1719416951194
       }
     ],
     "qhreCFW3lhVEhu7AHuVy-": [
@@ -11283,7 +11284,8 @@
       -1,
       {
         "name": 1719362365438,
-        "dataType": 1719362400713
+        "dataType": 1719362400713,
+        "options(notNull)": 1719416956508
       }
     ],
     "o7vaS6KDKeVKpRvg9dBMn": [
@@ -11365,7 +11367,7 @@
       {
         "name": 1719368723155,
         "options(notNull)": 1719369289655,
-        "options(unique)": 1719369318602,
+        "options(unique)": 1719415761380,
         "dataType": 1719396260244
       }
     ],
@@ -11405,7 +11407,7 @@
       {
         "name": 1719368877700,
         "options(notNull)": 1719369310490,
-        "options(unique)": 1719369320494,
+        "options(unique)": 1719415907681,
         "dataType": 1719396274580
       }
     ],
@@ -11416,7 +11418,7 @@
       {
         "name": 1719368880526,
         "options(notNull)": 1719369311070,
-        "options(unique)": 1719369321095,
+        "options(unique)": 1719415908348,
         "dataType": 1719396277049
       }
     ],
