@@ -5,11 +5,11 @@
     "width": 2000,
     "height": 2000,
     "scrollTop": 0,
-    "scrollLeft": 0,
+    "scrollLeft": -431,
     "zoomLevel": 1,
     "show": 511,
     "database": 4,
-    "databaseName": "",
+    "databaseName": "Gestion_citas",
     "canvasType": "ERD",
     "language": 1,
     "tableNameCase": 4,
@@ -755,6 +755,14 @@
         "name": 1720588691819,
         "dataType": 1720588756427,
         "options(notNull)": 1720588766931
+      }
+    ],
+    "settings.databaseName": [
+      "settings",
+      -1,
+      -1,
+      {
+        "databaseName": 1720589424072
       }
     ]
   }
